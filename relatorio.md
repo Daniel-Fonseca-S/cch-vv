@@ -10,6 +10,9 @@
 - Davi Gil Brito Vaz Takayama `RA: 2316374`
 - Jean Felipe Camaroto Bondan `RA: 2272555`
 
+### Repositório
+- [GitHub](https://github.com/Daniel-Fonseca-S/cch-vv)
+
 ## Tópicos
 
 - objetivo
@@ -37,7 +40,7 @@ Fluxos a serem testados:
 - selecionar categoria de produto
 - acessar página steamworks
 
-### Script de teste
+### Scripts de teste
 
 #### Busca por um produto
 
@@ -98,3 +101,13 @@ describe('Ver steamworks', () => {
 | √       | selecionar-categoria-produto.cy.js | 00:08       | 1       | 1       | -       | -       |
 | √       | ver-steamworks.cy.js               | 00:10       | 1       | 1       | -       | -       |
 | ***√*** | ***All specs passed!***            | ***00:32*** | ***4*** | ***4*** | ***-*** | ***-*** |
+
+### Melhorias e otimizações
+
+- Melhorar a organização dos testes
+- Melhorar a legibilidade dos testes
+- Melhorar a eficiência dos testes
+- Melhorar a cobertura dos testes
+- Melhorar a qualidade dos testes
+
+---
